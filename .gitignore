@@ -1,0 +1,28 @@
+# Compiled files
+/target
+
+# Generated files
+Cargo.lock
+
+# Rustdoc output
+/doc
+
+# Dependency directories
+**/vendor/
+
+# Editor temporary/backup files
+*.swp
+*.bak
+*.tmp
+*~
+
+# IDE files
+.idea/
+.vscode/
+*.code-workspace
+
+# macOS files
+.DS_Store
+
+# Windows files
+Thumbs
