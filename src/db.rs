@@ -13,5 +13,6 @@ pub async fn query_database(pool: &PgPool) -> Result<(), Error> {
     //     .await?;
 
     // println!("Query results: {:?}", rows);
+    
     Ok(())
 }
